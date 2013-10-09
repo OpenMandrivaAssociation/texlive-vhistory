@@ -1,12 +1,12 @@
-# revision 19901
+# revision 30080
 # category Package
 # catalog-ctan /macros/latex/contrib/vhistory
-# catalog-date 2010-07-19 00:40:21 +0200
+# catalog-date 2013-04-21 16:55:16 +0200
 # catalog-license lppl1.2
-# catalog-version 1.5
+# catalog-version 1.6.1
 Name:		texlive-vhistory
-Version:	1.5
-Release:	2
+Version:	1.6.1
+Release:	1
 Summary:	Support for creating a change log
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vhistory
@@ -67,16 +67,3 @@ intersection of sets etc.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.5-2
-+ Revision: 757422
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.5-1
-+ Revision: 719889
-- texlive-vhistory
-- texlive-vhistory
-- texlive-vhistory
-
