@@ -6,7 +6,7 @@
 # catalog-version 1.6.1
 Name:		texlive-vhistory
 Version:	1.6.1
-Release:	3
+Release:	4
 Summary:	Support for creating a change log
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vhistory
