@@ -1,6 +1,6 @@
 Name:		texlive-vhistory
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Support for creating a change log
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vhistory
